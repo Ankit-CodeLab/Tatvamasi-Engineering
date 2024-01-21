@@ -483,15 +483,6 @@ footer pre p {
     padding: 10px;
 }
 
-/*--------------------------------------------------Products Page-------------------------------------------------*/
-
-.products-2 {
-    width: 100%;
-    display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
-    grid-column-gap: 25px;
-}
-
 /*--------------------------------------------------Screen Breakpoints---------------------------------------------*/
 
 @media (max-width: 1200px) {
